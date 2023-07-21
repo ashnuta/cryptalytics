@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Description:
+A LIVE Crytpo Currency Ananlytics Web Application. The project mainly has a home page with trending coins. If you wish to search any coins of your choice you can do so, a
+search basr is also available. On clicking thecoins you are redirected to another page which has a Simple Line Areac chart between Prices and Dates.
+Tech Used: Javascript, ReactJS, CSS, Coin Gecko API, Axios, Zustand,, Classnames, React Router, Recharts for Graph.
+
 ## Available Scripts
 
 In the project directory, you can run:
