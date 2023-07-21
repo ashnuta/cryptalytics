@@ -24,6 +24,7 @@ export default function Home(){
           <div className='home-cryptos'>
                 <div className='width'>
                     <h2>Trending Coins</h2>
+                    <h5> *click on them to see the graph</h5>
                     <div class="home-cryptos-list">
                         {store.coins.map(coin => {
                         return<ListItems key={coin.id} coin={coin} />;
